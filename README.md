@@ -9,6 +9,6 @@
 
 ## Contributors
 
-<a href="https://github.com/KsamNole/game-of-life/graphs/contributors">
-  <img src="https://contributors-img.firebaseapp.com/image?repo=KsamNole/game-of-life" />
+<a href="https://github.com/ksamnole/minesweeper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ksamnole/minesweeper" />
 </a>
